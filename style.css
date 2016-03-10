@@ -1,0 +1,41 @@
+a[href^="http"] { 
+	background-image: url(img/globo.png);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+ }
+
+
+#logotipo {
+	width: 200px;
+	 display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+}
+
+img, iframe{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, h2{
+	font-family: 'Poiret One', cursive;
+}
+
+a:link{
+	color: #FFFF00;
+}
+
+a:visited{
+	color: #00FFFF;
+	
+}
+
+a:hover{
+	text-decoration: none;
+	color: #00FF00;
+}
+
+a:active{
+	color: #FF00FF;
+}
